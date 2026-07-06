@@ -1,0 +1,43 @@
+export const featuredProducts = [
+  {
+    id: 1,
+    title: "Premium Laptop Bag",
+    image: "/images/featured/bag.jpg",
+    hover: "/images/featured/bag2.jpg",
+    price: 899,
+    oldPrice: 1199,
+    rating: 4.8,
+    badge: "BESTSELLER",
+  },
+  {
+    id: 2,
+    title: "Steel Bottle",
+    image: "/images/featured/bottle.jpg",
+    hover: "/images/featured/bottle2.jpg",
+    price: 599,
+    oldPrice: 899,
+    rating: 4.9,
+    badge: "NEW",
+  },
+  {
+    id: 3,
+    title: "Desk Organizer",
+    image: "/images/featured/desk.jpg",
+    hover: "/images/featured/desk2.jpg",
+    price: 749,
+    oldPrice: 999,
+    rating: 4.7,
+    badge: "HOT",
+  },
+  {
+    id: 4,
+    title: "Corporate Hamper",
+    image: "/images/featured/hamper.jpg",
+    hover: "/images/featured/hamper2.jpg",
+    price: 1499,
+    oldPrice: 1999,
+    rating: 5,
+    badge: "PREMIUM",
+  },
+];
+

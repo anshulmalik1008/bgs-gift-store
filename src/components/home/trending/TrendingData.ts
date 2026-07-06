@@ -1,0 +1,43 @@
+export const trendingProducts = [
+  {
+    id: 1,
+    title: "Luxury Rose Box",
+    image: "/images/trending/t1.jpg",
+    hover: "/images/trending/t1-hover.jpg",
+    price: 1999,
+    oldPrice: 2999,
+    badge: "TRENDING",
+    rating: 4.9,
+  },
+  {
+    id: 2,
+    title: "Chocolate Hamper",
+    image: "/images/trending/t2.jpg",
+    hover: "/images/trending/t2-hover.jpg",
+    price: 1499,
+    oldPrice: 1999,
+    badge: "HOT",
+    rating: 4.8,
+  },
+  {
+    id: 3,
+    title: "Personalised Frame",
+    image: "/images/trending/t3.jpg",
+    hover: "/images/trending/t3-hover.jpg",
+    price: 999,
+    oldPrice: 1499,
+    badge: "NEW",
+    rating: 5,
+  },
+  {
+    id: 4,
+    title: "Luxury Basket",
+    image: "/images/trending/t4.jpg",
+    hover: "/images/trending/t4-hover.jpg",
+    price: 2499,
+    oldPrice: 3499,
+    badge: "BEST",
+    rating: 4.9,
+  },
+];
+
